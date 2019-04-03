@@ -1,5 +1,4 @@
-
-== Nexus Repository Manager Examples 
+# Nexus Repository Manager Examples 
 
 This project contains sample projects and other resources referenced from the book 'Repository Management with Nexus' as well as the 'Nexus Repository Manager Evaluation Guide'.
 
